@@ -1,5 +1,5 @@
 country,country_code,region,gold,silver,bronze,total,gdp,gdp_year,population
-United States,USA,North America,40,44,42,126,81695.19,2023,334.9
+United States of America,USA,North America,40,44,42,126,81695.19,2023,334.9
 China,CHN,Asia,40,27,24,91,12614.06,2023,1410.7
 Japan,JPN,Asia,20,12,13,45,33834.39,2023,124.5
 Australia,AUS,Oceania,18,19,16,53,64711.77,2023,26.6
